@@ -309,6 +309,13 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
+      name: '十面埋伏（live）',
+      artist: '陈奕迅',
+      url: 'https://music.163.com/song/media/outer/url?id=65904.mp3',
+      cover:
+        'https://p1.music.126.net/fzPevlTWCieb6lWTv2B7yg==/109951164034399103.jpg'
+    },
+    {
       name: '董小姐',
       artist: '宋冬野',
       url: 'https://music.163.com/song/media/outer/url?id=27646198.mp3',
